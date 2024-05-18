@@ -12,7 +12,7 @@ Welcome to the Airport Analysis Dashboard! This Power BI dashboard is designed t
 4. [Getting Started](#getting-started)
 5. [Data Sources](#data-sources)
 6. [Usage](#usage)
-7. [Links and Photos](#links-and-photos)
+7. [Photos](#photos)
 8. [Feedback and Support](#feedback-and-support)
 
 ## Overview
